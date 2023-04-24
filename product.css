@@ -66,14 +66,14 @@
   }
 
   .donut-bg-more{
-    background-image: url('IMAGES\more donuts.jpg');
+    background-image: url('IMAGES\\more donuts.jpg');
     background-size: cover;
     background-position: center;
 	background-repeat: no-repeat;
-  }
+  } 
 
   .coffee-bg{
-    background-image: url('IMAGES\coffee.jpg');
+    background-image: url('IMAGES\\coffee.jpg');
     background-size: cover;
     background-position: center;
 	background-repeat: no-repeat;
