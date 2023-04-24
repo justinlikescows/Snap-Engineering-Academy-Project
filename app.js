@@ -1,4 +1,4 @@
-// script.js
+// app.js
 function goToOrderingSite() {
     window.location.href = "https://www.goldbelly.com/primos-donuts";
   }

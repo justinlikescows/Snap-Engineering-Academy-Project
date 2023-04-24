@@ -2,10 +2,6 @@
     max-width: 960px;
   }
   
-  /*
-   * Custom translucent site header
-   */
-  
   .site-header {
     background-color: #A6D0DD;
     -webkit-backdrop-filter: saturate(180%) blur(20px);
@@ -70,14 +66,14 @@
   }
 
   .donut-bg-more{
-    background-image: url('IMAGES\\more donuts.jpg');
+    background-image: url('IMAGES\more donuts.jpg');
     background-size: cover;
     background-position: center;
 	background-repeat: no-repeat;
   }
 
   .coffee-bg{
-    background-image: url('IMAGES\\coffee.jpg');
+    background-image: url('IMAGES\coffee.jpg');
     background-size: cover;
     background-position: center;
 	background-repeat: no-repeat;
@@ -93,45 +89,7 @@
   .pacifico{
     font-family: 'Pacifico', cursive;
   }
-  /*
-   * Dummy devices (replace them with your own or something else entirely!)
-   */
-  
-  /* .product-device {
-    position: absolute;
-    right: 10%;
-    bottom: -30%;
-    width: 300px;
-    height: 540px;
-    background-color: #333;
-    border-radius: 21px;
-    transform: rotate(30deg);
-  } */
-  
-  /* .product-device::before {
-    position: absolute;
-    top: 10%;
-    right: 10px;
-    bottom: 10%;
-    left: 10px;
-    content: "";
-    background-color: rgba(255, 255, 255, .1);
-    border-radius: 5px;
-  }
-  
-  .product-device-2 {
-    top: -25%;
-    right: auto;
-    bottom: 0;
-    left: 5%;
-    background-color: #e5e5e5;
-  } */
-  
-  
-  /*
-   * Extra utilities
-   */
-  
+
   .flex-equal > * {
     flex: 1;
   }
